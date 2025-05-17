@@ -4,7 +4,7 @@
 
 - ⚡ I’m currently **practicing.**
 
-- 💬 Ask me about **gnu/linux, open-source, your digital rights.**
+- 💬 Ask me about **gnu/linux, open-source and your digital rights.**
 
 - ⏰ Over 3 years of **coding experience.**
 
